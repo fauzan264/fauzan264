@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning Kotlin Android
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Android Native Development
 - 📫 How to reach me: [@ah.fauzann_](https://www.instagram.com/ah.fauzann_)
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
 <a href="https://github.com/fauzan264/github-readme-stats">
