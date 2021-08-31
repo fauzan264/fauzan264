@@ -2,9 +2,11 @@
 
 <img align="right" style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
 
+My name is Fauzan.
+
 - 🔭 I’m currently working on Software Engineer
 - 🌱 I’m currently learning Android Native Development
-- 📫 How to reach me: [@ah.fauzann_](https://www.instagram.com/ah.fauzann_)
+- 📫 How to reach me: [@ah.fauzann_](https://www.instagram.com/_fauzan264)
 
 <a href="https://github.com/fauzan264/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=10" />
