@@ -7,7 +7,7 @@
 - 📫 How to reach me: [@ah.fauzann_](https://www.instagram.com/ah.fauzann_)
 
 
-<a href="https://github.com/fauzan264/github-readme-stats">
+<a style="inline-block" href="https://github.com/fauzan264/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=250&langs_count=10" />
 </a>
-<img align="right" style="inline-block" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
