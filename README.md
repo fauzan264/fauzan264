@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark&card_width=200" />
   <img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
 </div>
 
