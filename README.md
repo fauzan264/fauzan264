@@ -1,7 +1,6 @@
 
 
-### Hello there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px">
-<img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
+### Hello there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
 
 - 🔭 I’m currently working on Software Engineer
 - 🌱 I’m currently learning Android Native Development
