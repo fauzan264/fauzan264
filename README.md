@@ -1,6 +1,4 @@
-
-<img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
-### Hello there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px"> 
+### Hello there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
 
