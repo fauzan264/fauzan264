@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Android Native Development
 - 📫 How to reach me: [@ah.fauzann_](https://www.instagram.com/ah.fauzann_)
 
-<a style="margin-top:20px; href="https://github.com/fauzan264/github-readme-stats">
+<a style="margin-top:20px;" href="https://github.com/fauzan264/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=10" />
 </a>
