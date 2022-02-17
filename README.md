@@ -5,8 +5,8 @@
 My name is Fauzan.
 
 - 🔭 I’m currently working on Software Engineer
-- 🌱 I’m currently learning Android Native Development
-- 📫 How to reach me: [@_fauzan264](https://www.instagram.com/_fauzan264)
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: [@_fwznn](https://www.instagram.com/_fwznn)
 
 <a href="https://github.com/fauzan264/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=10" />
