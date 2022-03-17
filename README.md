@@ -9,5 +9,5 @@ My name is Fauzan.
 - 📫 How to reach me: [@_fwznn](https://www.instagram.com/_fwznn)
 
 <a href="https://github.com/fauzan264/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=15" />
 </a>
