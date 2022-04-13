@@ -4,8 +4,8 @@
 
 My name is Fauzan.
 
-- 🔭 I’m currently working on Software Engineer
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Support Engineer
+- 🌱 I’m currently learning Go programming language
 - 📫 How to reach me: [@_fwznn](https://www.instagram.com/_fwznn)
 
 <a href="https://github.com/fauzan264/github-readme-stats">
