@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
+### Hello <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="5px"> <img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
 
 <img align="right" style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
 
