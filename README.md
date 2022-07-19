@@ -4,7 +4,7 @@
 
 My name is Fauzan.
 
-- 🔭 I’m currently working on Support Engineer | Freelance Web Developer
+- 🔭 I’m currently working on Freelance Web Developer
 - 🌱 I’m currently learning Go programming language
 
 <a href="https://github.com/fauzan264/github-readme-stats">
