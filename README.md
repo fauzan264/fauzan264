@@ -10,3 +10,5 @@ My name is Fauzan.
 <a href="https://github.com/fauzan264/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=15" />
 </a>
+
+[![@fauzan264's Holopin board](https://holopin.me/fauzan264)](https://holopin.io/@fauzan264)
