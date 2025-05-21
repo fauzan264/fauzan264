@@ -6,7 +6,7 @@ My name is Fauzan.
 - 🔭 I’m currently working on Freelance Web Developer 
 - 🌱 I’m currently learning Go programming language
 
-<a href="https://github.com/fauzan264/github-readme-stats">
+<a style="margin:100px 0;" href="https://github.com/fauzan264/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=vision-friendly-dark&card_width=800&langs_count=6" />
 </a>
 
