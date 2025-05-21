@@ -1,7 +1,6 @@
 ### Hello <img align="right" src="https://komarev.com/ghpvc/?username=fauzan264&style=flat&color=ff4500" alt="viewer" />
 
-<img align="right" style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
-
+<img align="right" style="width:50%;margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api?username=fauzan264&include_all_commits=true&show_icons=true&count_private=true&theme=vision-friendly-dark" />
 My name is Fauzan.
 
 - 🔭 I’m currently working on Freelance Web Developer 
